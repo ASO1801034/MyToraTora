@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tora_width" />
+    <dimen name="toraWidth">100dp</dimen>
+    <dimen name="toraHeight">100dp</dimen>
+    <dimen name="bbaWidth">100dp</dimen>
+    <dimen name="bbaHeight" />
+    <dimen name="bba_height">100dp</dimen>
+    <dimen name="kiyomasaWidth">100dp</dimen>
+    <dimen name="kiyomasaHeight">100dp</dimen>
+    <dimen name="obWidth">100dp</dimen>
+    <dimen name="obHeight">100dp</dimen>
+    <dimen name="myHandWidth">160dp</dimen>
+    <dimen name="myHandHeight">160dp</dimen>
+    <dimen name="comHandWidth">180dp</dimen>
+    <dimen name="comHandHeight">180dp</dimen>
+</resources>
